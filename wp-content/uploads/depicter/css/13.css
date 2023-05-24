@@ -1,0 +1,36 @@
+
+.depicter-revert.depicter-13 .depicter-layers-wrapper{
+	padding-left:15px;
+	padding-right:15px;
+}
+.depicter-revert .depicter-13-element-51{
+	font-size:38px;
+	text-align:center;
+	color:#3B8E46;
+	font-family:"Syne";
+	font-weight:800;
+	line-height:120%;
+	text-decoration:;
+	background-color:transparent;
+}
+.depicter-revert .depicter-13-element-43{
+	opacity:0.98;
+	transform:scaleX(1) scaleY(1);
+	border-radius:63px;
+}
+.depicter-revert .depicter-13-element-43:not(.depicter-hover-off):hover {
+	filter:brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg);
+	opacity:0.98;
+}
+.depicter-revert .depicter-13-element-48{
+	opacity:1;
+}
+.depicter-revert .depicter-13-element-55{
+	box-shadow:inset -18px -12px 0px 0px rgba(208, 193, 193, 0.5);
+	background-color:#ECE2DA;
+	border-radius:50%;
+}
+.depicter-revert .depicter-13-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
